@@ -2,8 +2,6 @@
 
 An AI-powered real-time vehicle accident detection system that leverages computer vision and sensor-based data to notify emergency services immediately upon detecting a crash or anomaly. Designed to reduce emergency response time and save lives.
 
-![Accident Detection Banner](https://raw.githubusercontent.com/umakantchauhan/Accident-Detection-System/main/assets/banner.png)
-
 ---
 
 ## 📌 Table of Contents
@@ -144,9 +142,9 @@ Vehicle/CCTV Footage → YOLOv8 Model → Crash Detection Logic
 ---
 
 ## 👨‍💻 Contributors
-
+- - [Shaan Aigal](https://github.com/shaanaigal)
+- [Tanmay Bangar(ME)](https://github.com/t0nyb17)
 - [Umakant Chauhan](https://github.com/umakantchauhan)
-- [Tony (You)](https://github.com/your-github-username)
 
 _Contributions, suggestions, and forks are welcome!_
 
