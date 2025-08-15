@@ -142,7 +142,7 @@ Vehicle/CCTV Footage → YOLOv8 Model → Crash Detection Logic
 ---
 
 ## 👨‍💻 Contributors
-- - [Shaan Aigal](https://github.com/shaanaigal)
+- [Shaan Aigal](https://github.com/shaanaigal)
 - [Tanmay Bangar(ME)](https://github.com/t0nyb17)
 - [Umakant Chauhan](https://github.com/umakantchauhan)
 
